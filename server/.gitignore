@@ -1,0 +1,5 @@
+# ignore binary files
+tmp
+
+# ignore env file
+.env
